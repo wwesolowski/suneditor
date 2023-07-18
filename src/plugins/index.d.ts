@@ -74,6 +74,7 @@ export {
   video,
   audio,
   math,
+  mention,
   imageGallery,
 };
 
