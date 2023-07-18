@@ -25,6 +25,7 @@ import image from "./dialog/image";
 import video from "./dialog/video";
 import audio from "./dialog/audio";
 import math from "./dialog/math";
+import mention from "./dialog/mention"
 
 // file browser
 import { FileBrowserPlugin } from "./FileBrowserPlugin";
